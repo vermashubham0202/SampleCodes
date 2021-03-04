@@ -6,17 +6,17 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/shubham/Templates/QRCodeLib/qrgen-1.0.jar">
+	<classpathentry kind="lib" path="/home/shubham/Templates/Libraries/QRCodeLib/qrgen-1.0.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/shubham/Templates/QRCodeLib/zxing-core-1.7.jar">
+	<classpathentry kind="lib" path="/home/shubham/Templates/Libraries/QRCodeLib/zxing-core-1.7.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/shubham/Templates/QRCodeLib/zxing-j2se-1.7.jar">
+	<classpathentry kind="lib" path="/home/shubham/Templates/Libraries/QRCodeLib/zxing-j2se-1.7.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>

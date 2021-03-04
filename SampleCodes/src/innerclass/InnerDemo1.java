@@ -1,5 +1,4 @@
 package innerclass;
-
 /*
  * 148-Program to demonstrate member inner classes in java.
  * 
@@ -7,9 +6,10 @@ package innerclass;
  * 
  * -> We have three type of inner classes :
  * 		- Member inner class
- * 		- Static inner class
+ * 		- Nested class (Static inner class)
  * 		- Anonymous inner class
  */
+
 public class InnerDemo1 {
 
 	public static void main(String[] args) {
